@@ -27,12 +27,6 @@ for line in lines:
 
 print 'Number of tokens:', len(tokens)
 words = nltk.FreqDist(tokens)
-#for word in words.most_common():
-#	print word[0]
-
-atricle_words = [word[0] for word in words.most_common()]
-# for word in atricle_words:
-# 	print word
 
 print 'Number of words:', len(words)
 lemmata = nltk.FreqDist()
@@ -43,11 +37,10 @@ for word in words:
 
 print 'Number of lemmas:', len(lemmata)
 
+atricle_words = [word[0] for word in words.most_common()]
 atricle_words = Set(atricle_words)
 stopwords = Set(stopwords)
 
-# for word in atricle_words - stopwords:
-# 	print word
 print "\nNumber of words without stopwords: ", len(atricle_words - stopwords)
 print "Number of lemmas without stopwords: ", len(Set(lemmata) - stopwords)
 
