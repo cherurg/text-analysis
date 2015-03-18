@@ -1,0 +1,92 @@
+OpenBVE — компьютерная игра, симулятор железной дороги.
+OpenBVE является свободным программным обеспечением, написанным на языке программирования C#, и предназначенным для работы в операционных системах Linux, Mac OS X и других UNIX-подобных, Windows.
+
+
+== §Описание ==
+OpenBVE создавался как альтернатива другому железнодорожному симулятору — BVE Trainsim, большинство маршрутов которого (версий 2 и 4) подходят для OpenBVE. Программа отличается приближёнными к реальными физикой движения и графикой, видом на поезд со стороны, анимированными окрестностями и звуковыми эффектами.
+
+
+== §Маршруты ==
+
+
+=== §Пригородная железная дорога ===
+Бразилия - Venesuella Guaianazes-Estudantes line
+Китай - Aichi Loop line
+Япония - Chashinai railway (вымышленный) - Minaminaka line, Ishinden line, Uchiike line, Takahagi line, Misaki line, Koriyama line.
+Япония - JR East-ltou line
+Япония - KT Nara line
+Хорватия - Garden line
+Венгрия - Csepel line
+Венгрия - First bmo line
+Венгрия - HEV Csomor line
+Венгрия - Solyomvar line
+Венгрия - Solyomvar-Kiralyliget line
+Индонезия - KRD line
+Япония - Matsuura line
+Япония - Over sea bridge Shinnoh line
+Япония - Seto bridge line 1
+Япония - Seto bridge line 2
+Япония - SN P TEST route
+Япония - Токио - Joetsu line
+Великобритания - ECML Nothumberland line
+Великобритания - Hammersmith and city line (линия лондонского метрополитена) (все станции на улице)
+Великобритания - Network west midlands line
+Великобритания - Northem heights line (похож на метрополитен)
+Великобритания - Richwell network line
+Великобритания - Tyne valley line
+
+
+=== §Городская электричка ===
+
+
+=== §Метрополитен ===
+Чехия - Прага - Line A
+Венгрия - Будапешт - Line M1, Line M2, Line M3, Line M4.
+Республика Корея - Пусан - Первая линия
+до конца не дописано
+
+
+== §Поезда ==
+81-7172
+81-717
+Caf 440
+CC 204
+CD 163
+CD 362
+CD 814 trio
+До конца не дописано
+
+
+== §Зависимости ==
+Для Linux и Mac OS X
+SDL — мультимедийные библиотеки.
+OpenAL — API для работы с аудиоданными.
+Mono (также зависит от Libgdiplus) — свободный аналог .NET Framework.
+Tao Framework — библиотека для работы .NET Framework и Mono c мультимедийными библиотеками OpenGL и SDL.
+Для Windows
+SDL
+OpenAL
+.NET Framework
+Tao Framework
+Программа OpenBVE поставляется без маршрутов и железнодорожных составов — их необходимо устанавливать отдельно.
+
+
+== §Галерея ==
+
+
+== §Примечания ==
+
+
+== §Ссылки ==
+Домашняя страница OpenBVE
+Содержимое OpenBVE
+Содержимое OpenBVE
+Исходный код программы на сайте GitHub
+Сайт для OpenBVE автора этой программы
+Сайт сообщества OpenBVE
+Маршруты для OpenBVE
+OpenBVE Route Editor — редактор маршрутов для OpenBVE
+
+
+== §См. также ==
+BVE Trainsim
